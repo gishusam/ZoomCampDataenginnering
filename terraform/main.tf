@@ -9,6 +9,6 @@ terraform {
 
 provider "google" {
   # Configuration options
-   project     = "my-project-id"
+   project    = "fresh-electron-449207-q1"
   region      = "us-central1"
 }
