@@ -1,0 +1,7 @@
+FROM python3.12.8
+
+WORKDIR /app
+
+ENTRYPOINT ["bash" ]
+
+  
